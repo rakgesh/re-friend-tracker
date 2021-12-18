@@ -6,7 +6,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "Ganeshalingam Rakgesh's & Mavangu Leta's Friend Tracker",
+            "title": "Ganeshalingam Rakgesh's, Mavangu Leta's & Stefan Martins da Silva's Friend Tracker",
             "formList": [
                 {
                     "id": "FriendForm",
